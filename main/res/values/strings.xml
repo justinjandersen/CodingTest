@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">This Is The Place</string>
+    <string name="MA_menu_about">About</string>
+
+    <string name="title_activity_create_place">Create Place</string>
+    <string name="title_activity_find_place">Find Place</string>
+    <string name="title_activity_place_view">View Place</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="PV_LocationSet">Set Location</string>
+    <string name="PV_LocationClear">Clear Location</string>
+    <string name="SavePlace">"Save Place"</string>
+
+    <string name="CP_BecomeAdmin">Become Administrator</string>
+    <string name="CP_NowAdmin">You are now an Administrator</string>
+    <string name="CP_TitleCreate">Create Place</string>
+    <string name="CP_TitleEdit">Edit Place</string>
+
+    <string name="PV_Refreshed">Refreshed</string>
+
+    <string name="LocationSet">Location Set</string>
+    <string name="LocationCleared">Location Cleared</string>
+    <string name="ProblemRefresh">There was a problem refreshing.</string>
+    <string name="ProblemUpdating">There was a problem updating.</string>
+    <string name="NoConnection">Make sure there is an connection to the internet.</string>
+    <string name="Refreshing">Refreshing...</string>
+
+<string name="About">Having a get together and you would like everyone to know where you are?\n
+\n
+If you are organising:\n
+Step 1 - Install this app (Done)\n
+Step 2 - Get your friends to install this app. (Be nice about it)\n
+Step 3 - Create A Place : Press the Create A Place button. Enter a Place Name (your friends will see this) and a Password. Then press Save.\n
+Step 4 - Back on the main screen you will see your place in the list. Get the code and pass it on to whoever you want to find you.\n
+Step 5 - On the day: When you arrive at the location where you want everyone to meet you, turn on your GPS, click on the Place you created from the list.\n
+Once the map is loaded with your location, click the SET LOCATION button to mark where you are. If you don\'t have GPS or want the mark a different location, long press your desired location on the map. Then click SET LOCATION to save.\n
+If you need to change the location you can click CLEAR LOCATION to clear and start again.\n
+\n
+Someone gave you a code?\n
+Step 1 - Install this app (Done)\n
+Step 2 - Click the Find The Place button.\n
+Step 3 - Enter the code into the Place Code and click SEARCH.\n
+Step 4 - If your code is found it will appear below. Check that it is the correct name and click SAVE.\n
+Step 5 - The Place should appear on the list on the main screen. It will say if the location has been set or not.\n
+Step 6 - Turn your GPS on for better accuracy. Click on the Place in the list. If the location is Set then you should see the location mark. If not then you will just see your location, if it can be found.\n
+\n
+Long click on the Place in the list to Edit or Delete.\n
+\n
+All maps are just a guide, please use common sense when moving in the real world.\n
+\n
+This Is The Place &#169;\n
+DevSSFX &#169;\n
+Feedback/Isses: devssfx@gmail.com\n
+</string>
+
+</resources>
